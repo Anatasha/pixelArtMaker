@@ -4,7 +4,7 @@
 
 * [Instructions](#instructions)
 * [Contributing](#contributing)
-* [Project](#Project Link)
+* [Project Link](#Project Link)
 
 ## Instructions
 
